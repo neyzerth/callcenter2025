@@ -1,0 +1,17 @@
+{
+    "SqlServer": {
+        "Server": "localhost,1433",
+        "Database": "callcenter2025",
+        "User": "SA",
+        "Password": "Admin123?",
+        "TrustServerCertificate": true
+    }
+,
+    "Paths": {
+        "Domain": "http://localhost:5062/callCenter/",
+        "Photos": {
+            "Users": "photos/users/",
+            "Agents": "photos/agents/"
+        }
+    }
+}

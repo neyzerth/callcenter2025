@@ -1,0 +1,166 @@
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/appsettings.json
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/CallCenter.staticwebassets.endpoints.json
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/CallCenter.exe
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/CallCenter.deps.json
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/CallCenter.runtimeconfig.json
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/CallCenter.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/CallCenter.pdb
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/obj/Debug/net8.0/CallCenter.csproj.AssemblyReference.cache
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/obj/Debug/net8.0/CallCenter.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/obj/Debug/net8.0/CallCenter.AssemblyInfoInputs.cache
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/obj/Debug/net8.0/CallCenter.AssemblyInfo.cs
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/obj/Debug/net8.0/CallCenter.csproj.CoreCompileInputs.cache
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/obj/Debug/net8.0/CallCenter.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/obj/Debug/net8.0/CallCenter.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/obj/Debug/net8.0/scopedcss/bundle/CallCenter.styles.css
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/obj/Debug/net8.0/staticwebassets/msbuild.CallCenter.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/obj/Debug/net8.0/staticwebassets/msbuild.CallCenter.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/obj/Debug/net8.0/staticwebassets/msbuild.build.CallCenter.props
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.CallCenter.props
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.CallCenter.props
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/obj/Debug/net8.0/staticwebassets.upToDateCheck.txt
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/obj/Debug/net8.0/CallCenter.csproj.Up2Date
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/obj/Debug/net8.0/CallCenter.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/obj/Debug/net8.0/refint/CallCenter.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/obj/Debug/net8.0/CallCenter.pdb
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/obj/Debug/net8.0/CallCenter.genruntimeconfig.cache
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/obj/Debug/net8.0/ref/CallCenter.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/Config/config.json
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/Newtonsoft.Json.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/Azure.Core.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/Azure.Identity.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/Microsoft.Bcl.Cryptography.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/System.ClientModel.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/System.Diagnostics.EventLog.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/System.Memory.Data.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/System.Security.Cryptography.Pkcs.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/cs/Microsoft.Data.SqlClient.resources.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/de/Microsoft.Data.SqlClient.resources.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/es/Microsoft.Data.SqlClient.resources.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/fr/Microsoft.Data.SqlClient.resources.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/it/Microsoft.Data.SqlClient.resources.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/ja/Microsoft.Data.SqlClient.resources.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/ko/Microsoft.Data.SqlClient.resources.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/pl/Microsoft.Data.SqlClient.resources.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/pt-BR/Microsoft.Data.SqlClient.resources.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/ru/Microsoft.Data.SqlClient.resources.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/tr/Microsoft.Data.SqlClient.resources.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/zh-Hans/Microsoft.Data.SqlClient.resources.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/zh-Hant/Microsoft.Data.SqlClient.resources.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/runtimes/unix/lib/net8.0/Microsoft.Data.SqlClient.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/runtimes/win/lib/net8.0/Microsoft.Data.SqlClient.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Diagnostics.EventLog.dll
+C:/Users/PC/Documents/.UTT/5 Cuatri/Web/Practicas/CallCenter/CallCenter/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Security.Cryptography.Pkcs.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/appsettings.Development.json
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/appsettings.json
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/Config/config.json
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/CallCenter.staticwebassets.endpoints.json
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/CallCenter
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/CallCenter.deps.json
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/CallCenter.runtimeconfig.json
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/CallCenter.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/CallCenter.pdb
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/Azure.Core.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/Azure.Identity.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/Microsoft.Bcl.Cryptography.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/System.ClientModel.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/System.Diagnostics.EventLog.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/System.Memory.Data.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/System.Security.Cryptography.Pkcs.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/cs/Microsoft.Data.SqlClient.resources.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/de/Microsoft.Data.SqlClient.resources.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/es/Microsoft.Data.SqlClient.resources.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/fr/Microsoft.Data.SqlClient.resources.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/it/Microsoft.Data.SqlClient.resources.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/ja/Microsoft.Data.SqlClient.resources.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/ko/Microsoft.Data.SqlClient.resources.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/pl/Microsoft.Data.SqlClient.resources.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/pt-BR/Microsoft.Data.SqlClient.resources.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/ru/Microsoft.Data.SqlClient.resources.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/tr/Microsoft.Data.SqlClient.resources.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/zh-Hans/Microsoft.Data.SqlClient.resources.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/zh-Hant/Microsoft.Data.SqlClient.resources.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/runtimes/unix/lib/net8.0/Microsoft.Data.SqlClient.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/runtimes/win/lib/net8.0/Microsoft.Data.SqlClient.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Diagnostics.EventLog.Messages.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Diagnostics.EventLog.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Security.Cryptography.Pkcs.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/obj/Debug/net8.0/CallCenter.csproj.AssemblyReference.cache
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/obj/Debug/net8.0/CallCenter.GeneratedMSBuildEditorConfig.editorconfig
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/obj/Debug/net8.0/CallCenter.AssemblyInfoInputs.cache
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/obj/Debug/net8.0/CallCenter.AssemblyInfo.cs
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/obj/Debug/net8.0/CallCenter.csproj.CoreCompileInputs.cache
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/obj/Debug/net8.0/CallCenter.MvcApplicationPartsAssemblyInfo.cs
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/obj/Debug/net8.0/CallCenter.MvcApplicationPartsAssemblyInfo.cache
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/obj/Debug/net8.0/scopedcss/bundle/CallCenter.styles.css
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/obj/Debug/net8.0/staticwebassets.build.json
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/obj/Debug/net8.0/staticwebassets.development.json
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/obj/Debug/net8.0/staticwebassets/msbuild.CallCenter.Microsoft.AspNetCore.StaticWebAssets.props
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/obj/Debug/net8.0/staticwebassets/msbuild.CallCenter.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/obj/Debug/net8.0/staticwebassets/msbuild.build.CallCenter.props
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.CallCenter.props
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.CallCenter.props
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/obj/Debug/net8.0/staticwebassets.pack.json
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/obj/Debug/net8.0/CallCenter.csproj.Up2Date
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/obj/Debug/net8.0/CallCenter.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/obj/Debug/net8.0/refint/CallCenter.dll
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/obj/Debug/net8.0/CallCenter.pdb
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/obj/Debug/net8.0/CallCenter.genruntimeconfig.cache
+/home/neyzer/Documents/UTT/web/CallCenter/CallCenter/obj/Debug/net8.0/ref/CallCenter.dll
