@@ -63,7 +63,11 @@ public class SqlServerConnection
             }
             catch (SqlException e)
             {
-
+                Console.WriteLine("SQL EXCEPTION: "+e);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("AN EXCEPTION: "+e);
             }
             //close connection
             connection.Close();
