@@ -11,25 +11,22 @@ public class SqlServerConnection
         "User Id = " + Config.Configuration.SqlServer.User + "; " +
         "Password = " + Config.Configuration.SqlServer.Password + ";"+
         "TrustServerCertificate = " + Config.Configuration.SqlServer.TrustServerCertificate+";";  
-
-    private static SqlConnection connection;
     
     #endregion
 
     #region class methods
 
-    private static bool Open()
+    private static SqlConnection GetConnection()
     {
-        //result
-        bool connected = false;
+        //connection
+        SqlConnection connection = new SqlConnection();
         //open
         try
         {
             //connection
-            connection = new SqlConnection(connectionString);
+            connection.ConnectionString = connectionString;
             //open
             connection.Open();
-            connected = true;
         }
         catch (ArgumentException e)
         {
@@ -44,13 +41,17 @@ public class SqlServerConnection
             Console.WriteLine("OTHER EXCEPTION: "+e);
         }
         //return connected
-        return connected;
+        return connection;
     }
-
+    
+    
     public static DataTable ExecuteQuery(SqlCommand command)
     {
         DataTable table = new DataTable();
-        if (Open())
+        //get the connection to DB server
+        SqlConnection connection = GetConnection();
+        
+        if (connection.State == ConnectionState.Open)
         {
             try
             {
@@ -73,6 +74,49 @@ public class SqlServerConnection
             connection.Close();
         }
         return table;
+    }
+    //<summary>
+    //Execute a stored procedure
+    //</summary>
+    public static int ExecuteProcedure(SqlCommand command)
+    {
+        //result
+        int result = 0;
+        //get the connection to DB server
+        SqlConnection connection = GetConnection();
+        
+        if (connection.State == ConnectionState.Open)
+        {
+            try
+            {
+                //assign connection
+                command.Connection = connection;
+                //command is a store procedure
+                command.CommandType = CommandType.StoredProcedure;
+                //result parameter
+                SqlParameter resultParameter = new SqlParameter("@status", DbType.Int32);
+                //parameter is output
+                resultParameter.Direction = ParameterDirection.Output;
+                //add parameter to command
+                command.Parameters.Add(resultParameter);
+                //execute procedure
+                command.ExecuteNonQuery();
+                //result
+                result =(int) command.Parameters["@status"].Value;
+
+            }
+            catch (SqlException e)
+            {
+                Console.WriteLine("SQL EXCEPTION: "+e);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("AN EXCEPTION: "+e);
+            }
+            //close connection
+            connection.Close();
+        }
+        return result;
     }
 
     #endregion

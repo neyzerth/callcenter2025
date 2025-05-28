@@ -1,3 +1,5 @@
+using Microsoft.Data.SqlClient;
+
 public class Session
 {
     #region statments
@@ -35,6 +37,23 @@ public class Session
         _duration = duration;
         _agent = agent;
         _station = station;
+    }
+    
+    #endregion
+    
+    #region class methods
+
+    public static int Login(int agentId, int pin, int stationId)
+    {
+        //command
+        SqlCommand command = new SqlCommand("spLoginAgent");
+        command.Parameters.AddWithValue("@agentId", agentId);
+        command.Parameters.AddWithValue("@agentPin", pin);
+        command.Parameters.AddWithValue("@stationId", stationId);
+        
+        //execute
+        return SqlServerConnection.ExecuteProcedure(command);
+        
     }
     
     #endregion
