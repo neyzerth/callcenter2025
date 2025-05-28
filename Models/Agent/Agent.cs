@@ -84,7 +84,6 @@ public class Agent
     public static Agent Get(int id)
     {
         //command
-        Console.WriteLine(select + " where agent_id = @ID");
         SqlCommand command = new SqlCommand(select + " where id = @ID");
         
         //parameters
