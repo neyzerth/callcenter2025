@@ -1,0 +1,46 @@
+## Archivos de compilación de .NET
+bin/
+obj/
+out/
+
+## Archivos de usuario de Visual Studio
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Archivos de configuración local
+.vs/
+.vscode/
+
+## Archivos de build de Rider
+.idea/
+*.sln.iml
+
+## Paquetes NuGet
+*.nupkg
+*.snupkg
+packages/
+# Si estás usando `paket`
+.paket/
+paket-files/
+
+## Archivos de log
+*.log
+
+## Archivos generados por el SDK de .NET
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Archivos temporales
+*.tmp
+*.temp
+*.bak
+*.swp
+
+## Test result files
+TestResults/
+*.trx
+*.coverage
+*.coveragex*
