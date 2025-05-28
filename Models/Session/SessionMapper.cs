@@ -6,10 +6,10 @@ public class SessionMapper
     {
         //cast columns
         int id = (int)row["id"];
-        DateTime signedIn = (DateTime)row["signedIn"];
-        TimeSpan duration = (TimeSpan)row["duration"];
-        int stationId = (int)row["stationId"];
-        int agentId = (int)row["agentId"];
+        DateTime signedIn = (DateTime)row["dateTimeLogin"];
+        TimeSpan duration = (TimeSpan)row["timeLoggedIn"];
+        int stationId = (int)row["idStation"];
+        int agentId = (int)row["idAgent"];
 
         Agent a = Agent.Get(agentId);
         Station s = Station.Get(stationId);

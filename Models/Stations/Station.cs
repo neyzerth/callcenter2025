@@ -75,7 +75,7 @@ public class Station
     public static Station Get(int id)
     {
         //Command
-        SqlCommand command = new SqlCommand(select + " where station_id = @ID");
+        SqlCommand command = new SqlCommand(select + " where id = @ID");
         
         //parameters
         command.Parameters.AddWithValue("@ID", id);

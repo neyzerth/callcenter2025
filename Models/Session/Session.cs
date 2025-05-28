@@ -16,6 +16,16 @@ public class Session
 
     #endregion
     
+    #region properties
+    
+    public int Id { get => _id; }
+    public DateTime SignedIn { get => _signedIn; }
+    public TimeSpan Duration { get => _duration; }
+    public Agent Agent { get => _agent; }
+    public Station Station { get => _station; }
+    
+    #endregion
+    
     #region constructors
 
     public Session(int id, DateTime signedIn, TimeSpan duration, Agent agent, Station station)
@@ -26,6 +36,6 @@ public class Session
         _agent = agent;
         _station = station;
     }
-
+    
     #endregion
 }
