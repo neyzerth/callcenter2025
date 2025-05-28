@@ -5,7 +5,7 @@ public class Status
 {
     #region statements
 
-    private static string selectOne = "SELECT * FROM status WHERE id = @ID";
+    private static string selectOne = "SELECT * FROM statusCall WHERE id = @ID";
     #endregion
     
     #region propierties

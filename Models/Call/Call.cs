@@ -5,7 +5,7 @@ public class Call
     #region statement
     
     private static string selectAll="select * from viewCalls";
-    private static string selectOne="select * from viewCalls where id = @ID";
+    private static string selectOne="select * from viewCalls where call_id = @ID";
     
     #endregion
     
