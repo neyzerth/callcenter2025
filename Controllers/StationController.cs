@@ -33,9 +33,13 @@ public class StationController : ControllerBase
     }
 
     [HttpPost]
-    [Route("")]
-    public ActionResult Post()
+    public ActionResult Post([FromForm] PostStation p)
     {
-        return Ok("post");
+        bool result = Station.Insert(p);
+        if(result)
+            return Ok(MessageResponse.GetResponse(1, "Post station successful", MessageType.Success));
+            
+        return Ok(MessageResponse.GetResponse(999, "Error posting station", MessageType.Error));
     }
+    
 }

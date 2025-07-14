@@ -119,6 +119,38 @@ public class SqlServerConnection
         return result;
     }
 
+    //<summary>
+    //Execute a stored procedure
+    //</summary>
+    public static bool ExecuteCommand(SqlCommand command)
+    {
+        //result
+        bool result = false;
+        //get the connection to DB server
+        SqlConnection connection = GetConnection();
+        
+        if (connection.State == ConnectionState.Open)
+        {
+            try
+            {
+                //assign connection
+                command.Connection = connection;
+                //execute procedure
+                command.ExecuteNonQuery();
+                //success
+                result = true;
+
+            }
+            catch (SqlException e)
+            { Console.WriteLine("SQL EXCEPTION: "+e); }
+            catch (Exception e)
+            { Console.WriteLine("AN EXCEPTION: "+e); }
+            //close connection
+            connection.Close();
+        }
+        return result;
+    }
+
     #endregion
 
 }

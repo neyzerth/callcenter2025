@@ -8,6 +8,9 @@ public class Agent
     private static string select = @"
            select id as agent_id, name as agent_name, photo as agent_photo, pin as agent_pin 
            from agents ";
+
+    private static string insert = @"INSERT INTO agents (id, name,photo, pin)
+                            VALUES (@id, @name, @photo, @pin)";
     
     
     #endregion
@@ -39,6 +42,13 @@ public class Agent
     {
         _id = 0;
         _name = "";
+        _photo = "";
+        _pin = 0;
+    }
+    public Agent(int id, string name)
+    {
+        _id = id;
+        _name = name;
         _photo = "";
         _pin = 0;
     }
@@ -95,6 +105,41 @@ public class Agent
         
         throw new AgentNotFoundException(id);
 
+    }
+    
+    public static bool Insert(PostAgent p)
+    {
+        SqlCommand command  =  new SqlCommand(insert);
+        
+        //get the extension of file (.jpg, .png, .jpeg)
+        string extension = p.Photo.FileName.Split('.').Last();
+        //set the file name the agent id
+        string photoFilename = p.Id + "." + extension;
+        
+        //parameters
+        command.Parameters.AddWithValue("@id", p.Id);
+        command.Parameters.AddWithValue("@name", p.Name);
+        command.Parameters.AddWithValue("@photo", photoFilename);
+        command.Parameters.AddWithValue("@pin", p.Pin);
+        //execute, return if dont execute
+        if (!SqlServerConnection.ExecuteCommand(command))
+            return false; //error
+
+        //get the path of photos in the system server
+        string path = Config.Configuration.Paths.Server + Config.Configuration.Paths.Photos.Agents + photoFilename;
+        try
+        {
+            //write the image in the disl
+            using (FileStream stream = new FileStream(path, FileMode.Create))
+            { p.Photo.CopyTo(stream); }
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine(e);
+            //error
+            return false;
+        }
+        return true;
     }
 
     #endregion

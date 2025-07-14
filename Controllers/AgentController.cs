@@ -38,19 +38,14 @@ using Microsoft.AspNetCore.Mvc;
 
         [HttpPost]
         [Route("")]
-        public ActionResult Post()
+        public ActionResult Post([FromForm] PostAgent p)
         {
-            return Ok("post");
+            bool result = Agent.Insert(p);
+            if(result)
+                return Ok(MessageResponse.GetResponse(1, "Post agent successful", MessageType.Success));
+            
+            return Ok(MessageResponse.GetResponse(999, "Error posting agent", MessageType.Error));
         }
-
-
-        [HttpGet("[action]/{station}")]
-        //[Route("[action]/{station}")]
-        public ActionResult SignIn(string station)
-        {
-            return Ok("sign in");
-        }
-
 
         [HttpPost("documents/add/{document}")]
         //[Route("/documents/add/{document}")]

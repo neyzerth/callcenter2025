@@ -6,9 +6,14 @@ public class Station
 {
     #region statement
     private static string select = @"
-       select id, rowNumber as station_rowNumber, deskNumber, ipAddress, active
+       select id, rowNumber, deskNumber, ipAddress, active
        from stations 
                                   ";
+
+    private static string insert = @"
+        insert into stations (id, rowNumber, deskNumber, ipAddress, active)
+        values (@id, @row, @desk, @ip, @active);
+";
 
     #endregion
     
@@ -35,6 +40,7 @@ public class Station
     public Station(int id, int rowNumber, int deskNumber, string ipAddress, bool active)
     {
         _id = id;
+        _location = new StationLocation();
         _location.Row = rowNumber;
         _location.Desk = deskNumber;
         _ipAddress = ipAddress;
@@ -86,6 +92,21 @@ public class Station
         
         throw new StationNotFoundException(id);
     }
-    
+
+    public static bool Insert(PostStation p)
+    {
+        //Station s = new Station(p.Id, p.Desk, p.Row, p.Ip, p.Active);
+        SqlCommand command  =  new SqlCommand(insert);
+        
+        //parameters
+        command.Parameters.AddWithValue("@id", p.Id);
+        command.Parameters.AddWithValue("@desk", p.Desk);
+        command.Parameters.AddWithValue("@row", p.Row);
+        command.Parameters.AddWithValue("@ip", p.Ip);
+        command.Parameters.AddWithValue("@active", p.Active);
+        //execute
+        return  SqlServerConnection.ExecuteCommand(command);
+    }
+
     #endregion
 }

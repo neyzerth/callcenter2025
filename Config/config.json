@@ -8,7 +8,8 @@
     }
 ,
     "Paths": {
-        "Domain": "http://localhost:5062/callCenter/",
+        "Domain": "http://localhost:80/callcenter/",
+        "Server": "/srv/http/callcenter/",
         "Photos": {
             "Users": "photos/users/",
             "Agents": "photos/agents/"

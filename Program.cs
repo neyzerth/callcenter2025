@@ -1,5 +1,4 @@
 using Newtonsoft.Json;
-using System.IO;
 
 
 IConfiguration configuration;
@@ -10,13 +9,27 @@ Config.Configuration = JsonConvert.DeserializeObject<Config>(json);
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+// Configure CORS
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("CorsPolicy", policy =>
+    {
+        policy
+            .AllowAnyOrigin() //  Cannot be used together with AllowCredentials()
+            .AllowAnyHeader()
+            .AllowAnyMethod();
+            //.AllowCredentials(); // Cannot be used together with AllowAnyOrigin()
+    });
+});
+
 var app = builder.Build();
+// Enable CORS
+app.UseCors("CorsPolicy");
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
